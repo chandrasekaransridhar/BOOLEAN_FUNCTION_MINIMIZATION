@@ -60,11 +60,9 @@ assign f2 = ( x & ~y &  z ) |
 endmodule
 ~~~
 **Truth Table**
-<img width="830" height="846" alt="truth_tables" src="https://github.com/user-attachments/assets/37c90ede-c108-4529-abd2-0b4c5706ee33" />
+<img width="696" height="678" alt="F1_truth_table" src="https://github.com/user-attachments/assets/5a231bc4-eec3-4574-b036-c86ef2a9e8e4" />
+<img width="647" height="678" alt="F2_truth_table" src="https://github.com/user-attachments/assets/6c8d6ade-8361-4f6f-a07c-36824a4517a0" />
 
-
-**Output:**
-<img width="743" height="856" alt="image" src="https://github.com/user-attachments/assets/beaff711-c03a-46c6-b2d4-2a0bfb08b33e" />
 
 **RTL realization**
 <img width="1547" height="862" alt="image" src="https://github.com/user-attachments/assets/6844087c-8065-4f13-9260-50da82fdefb2" />
